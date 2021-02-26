@@ -1,0 +1,131 @@
+############################ banner ##########################
+banner:
+  enable : true
+  title : "Total testing solution"
+  content : "Enviotech is an Bangladeshi organization to supply & support of laboratory test equipment and industrial machinery."
+  image : "images/cover.png"
+  # button
+  button:
+    enable : true
+    label : "All prodcuts"
+    link : "services"
+  # demo video
+  video:
+    enable : true
+    videoURL : "https://www.youtube.com/embed/Ar_Bh6jO8OA"
+
+########################## About ##############################
+about:
+  enable : true
+  title : "About us"
+  content : "Enviotech is a supplier of industrial machinery, laboratory testing tools and equipment in Bangladesh. Founded in Bangladesh in 2009. Our mission to help laboratories and industries to provide quality equipment and solutions. Bangladesh is raising day by day and industrialization growth is higher. We are contributing our efforts and expertise to install new technologies to maintain product standard. We have a strong technologist team to support our customers in terms of laboratory design, development, system installation, training and achieve target standard."
+  image : "images/slider.jpg"
+
+
+###################### Call to action ########################
+cta:
+  enable : true
+  title : "Need help for your industry? "
+  content : "We are avaiable to guide you free of cost!"
+  image : "images/logo.svg"
+  overlayImage : "images/cta-overlay.png"
+  button:
+    label : "Send us email"
+    link : "mailto:sales@enviotech.com.bd"
+  
+
+######################## raw material #######################
+material:
+  enable : true
+  title : "Product Categories"
+  subtitle : "Enviotech is a supplier of industrial and laboratory machinery, instrument, solutions, electronics lab instrument, device, medical lab equipment, tools and accessories."
+  materialItem:
+    # material item loop
+    - title : "Analytical lab equipment"
+      image : "images/product/anality.png"
+      content : "."
+      
+    # material item loop
+    - title : "Chemical lab equipment"
+      image : "images/product/chem.png"
+      content : "."
+      
+    # material item loop
+    - title : "Clinical lab equipment"
+      image : "images/product/clinical.png"
+      content : "..."
+      
+    # material item loop
+    - title : "Research lab equipment"
+      image : "images/product/research.png"
+      content : "."
+
+    # material item loop
+    - title : "Textile lab equipment"
+      image : "images/product/tex.png"
+      content : "."
+
+########################### Advantage #########################
+advantage:
+  enable : true
+  title : "Advantages of Enviotech <br> Service"
+  subtitle : "..."
+  image : "images/banner-2.png"
+  advantageList:
+    # advantage list loop
+    - listItem : "Top class equipment"
+    - listItem : "Excellent service"
+    - listItem : "Professional"
+    - listItem : "Free installation & support"
+    - listItem : "On time delivery"
+    - listItem : "Optimum price range"
+
+
+######################## Promo Video ##########################
+video:
+  enable : true
+  title : "Why Enviotech matters?"
+  content : "..."
+  videoThumb : "images/Screenshot from 2021-01-09 00-59-09.png"
+  videoURL : "https://www.youtube.com/embed/Ar_Bh6jO8OA"
+
+
+######################## services #############################
+services:
+  enable : true
+  title : "Service List"
+  # product item comes from "content/services"
+
+
+########################## Testimonial ########################
+testimonial:
+  enable : true
+  title : "What People Are Saying <br> About Our Product"
+  testimonialItem:
+    # testimonial item loop
+    - name : "Frankie Ng"
+      image : "images/clients/Frankie_Ng_owler_20160926_111414_original (1).jpg" # size 100px*100px
+      designation : "CEO Succession at SGS"
+      content : "I have known Enviotech, Inc for more than a decade, and I have watched them to grow as a expert in testing instruments and solutions service providing in SGS & other leading companies across industries geographies. I am convinced that Enviotech, Inc. is so much technical in modern lab testing materials, how to fix it whithin short time and they are humble.The company will continue to grow profitably, help industries and strengthen its position as industry leader."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "André Lacroix"
+      image : "images/clients/Andre-Lacroix[1]_1.jpg" # size 100px*100px
+      designation : "CEO, Intertek"
+      content : "Enviotech have strong experience in industrial lab testing instruments and machinery in Bangladesh. As a supplier, they deliver a unique Quality testing equipment. They are now carrying out total testing equipment ans solutions supply and advanced testing tools for wastewater & hazardous chemicals management companies. Enviotech services help companies to mitigate risks across their entire production process and we look forward to get support in Bangladesh to ensure quality equiupment installation, support and services."
+      rating : "four" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Anayet Hossain Rasel"
+      image : "images/chairman.png" # size 100px*100px
+      designation : "CEO, Enviotech Corp."
+      content : "We are providing quality lab products eg. Incubators and Drying Ovens, Centrifuses, Refrigerated Circulators, Immersion Coolers, Flow Coolers, Dosing Equipment, Dry Equipment, Photometry, Conductivity Measurement, Homogenisers, Cooling- And Freezing Equipment, Laboratory Blenders, Grinding Equipment, Mixing Equipment, Sampling, Oil- And Water Baths, Optics And Microscopes, Orp Measurement, Furnaces, Ph Measurement, Cleaning- And Disinfection Equipment, Stir Equipment, Rotatieverdampers, Counters, Temperature Measurement, Thermo Mixers, Bath Circulators, Time Measurement, Ultrasonic Baths, Dilute Equipment, Heating Equipment, Weighing Equipment, Sieve Equipment, Oxygen Measurement Etc."
+      rating : "five" # rating star, one to five
+      
+    # testimonial item loop
+    - name : "Didier Michaud-Daniel"
+      image : "images/KzCDAHzs.jpg" # size 100px*100px
+      designation : "CEO of Bureau Veritas"
+      content : "Bureau Veritas is a world leader in laboratory testing service & CEO Didier Michaud-Daniel reffered Enviotech Corporation is no. one instrument support, supplier and servive in Bangladesh."
+      rating : "five" # rating star, one to five

@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="77"
+   height="35"
+   version="1.1"
+   id="svg6"
+   sodipodi:docname="logo.svg"
+   inkscape:version="0.92.3 (2405546, 2018-03-11)">
+  <metadata
+     id="metadata12">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <defs
+     id="defs10" />
+  <sodipodi:namedview
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1"
+     objecttolerance="10"
+     gridtolerance="10"
+     guidetolerance="10"
+     inkscape:pageopacity="0"
+     inkscape:pageshadow="2"
+     inkscape:window-width="1600"
+     inkscape:window-height="836"
+     id="namedview8"
+     showgrid="false"
+     inkscape:zoom="4.2597403"
+     inkscape:cx="46.057274"
+     inkscape:cy="17.5"
+     inkscape:window-x="0"
+     inkscape:window-y="31"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="svg6" />
+  <text
+     style="font-weight:700;font-stretch:condensed;font-size:26.61850929px;line-height:1.25;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:0.66518611;"
+     x="-0.29871982"
+     y="13.147612"
+     font-weight="700"
+     font-stretch="condensed"
+     font-size="38.496"
+     letter-spacing="0"
+     word-spacing="0"
+     id="text4"
+     transform="scale(1.1813718,0.84647354)">
+    <tspan
+       x="-0.29871982"
+       y="13.147612"
+       id="tspan2"
+       style="font-size:14.75118351px;fill:#ffffff;stroke-width:0.66518611;">Enviotech</tspan>
+  </text>
+  <text
+     style="font-weight:700;font-stretch:condensed;font-size:21.81866074px;line-height:1.25;font-family:'Open Sans Condensed';-inkscape-font-specification:'Open Sans Condensed, Bold Condensed';font-variant-ligatures:normal;font-variant-caps:normal;font-variant-numeric:normal;font-feature-settings:normal;text-align:start;letter-spacing:0;word-spacing:0;fill:#ffffff;stroke-width:0.54523981;"
+     x="-0.63731319"
+     y="23.499146"
+     font-weight="700"
+     font-stretch="condensed"
+     font-size="38.496"
+     letter-spacing="0"
+     word-spacing="0"
+     transform="scale(1.1694711,0.85508738)"
+     id="text66">
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan68">Corporation</tspan>
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan54" />
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan56" />
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan58" />
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan60" />
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan62" />
+    <tspan
+       x="-0.63731319"
+       y="23.499146"
+       style="font-size:12.09125137px;fill:#ffffff;stroke-width:0.54523981;"
+       id="tspan64" />
+  </text>
+</svg>
